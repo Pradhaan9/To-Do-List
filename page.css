@@ -1,0 +1,73 @@
+body{
+ background-image:url(https://preview.pixlr.com/images/800wm/1035/1/1035118148.jpg);
+ background-size: cover;
+}
+.list{
+  width: 400px;
+  height: 500px;
+  background-image: linear-gradient(to right,purple,yellow);
+  opacity: 1.5;
+  position: absolute;
+  left:600px;
+  top:150px;
+  overflow-y: scroll;
+}
+h1{
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+  left: 100px;
+  text-align: center;
+  width: 200px;
+}
+.im1{
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+}
+.im1{
+  height: 25px;
+  width: 27px;
+  position: relative;
+  left: 30px;
+  top: 1px;
+}
+.im2{
+  display: inline-block;
+  height: 22px;
+  width: 21px;
+  position: relative;
+  left: 30px;
+}
+li{
+  position: relative;
+  top: 10px;
+  color: red;
+  font-weight: bolder;
+  float: left;
+  clear: both;
+  margin-bottom: 10px;
+  text-decoration: underline;
+  text-decoration-color: yellow;
+  margin-top: 20px;
+}
+.list1{
+  width:400px;
+  background-color: yellow;
+  position: relative;
+  top: 110px;
+  left: 592px;
+}
+.t{
+  position: relative;
+  bottom: 5px;
+  left: 2px;
+  background-color: brown;
+  color: white;
+  width: 300px;
+}
+hr{
+  border: none;
+  border-top: 2px dotted black;
+}
